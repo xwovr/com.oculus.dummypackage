@@ -12,12 +12,12 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/xwovr/unity-dummy-package.git"
+    "url": "https://github.com/xwovr/com.oculus.dummypackage.git"
   },
   "bugs": {
-    "url": "https://github.com/xwovr/unity-dummy-package/issues"
+    "url": "https://github.com/xwovr/com.oculus.dummypackage/issues"
   },
-  "homepage": "https://github.com/xwovr/unity-dummy-package",
+  "homepage": "https://github.com/xwovr/com.oculus.dummypackage",
   "author": "Xiang Wei <xiang.wei@oculus.com>",
   "license": "Oculus"
 }
