@@ -2,6 +2,9 @@
 .npm
 npm-debug.log
 
+# npm
+.npmrc
+
 # reports
 test-reports.xml
 
