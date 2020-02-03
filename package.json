@@ -1,0 +1,9 @@
+{
+  "name": "com.oculus.dummypackage",
+  "displayName": "A dummy package from Oculus",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "a very cool description",
+  "keywords": [ "package", "oculus", "dummy" ],
+  "dependencies": {}
+}

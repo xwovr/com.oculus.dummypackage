@@ -1,0 +1,11 @@
+# optional npm cache directory
+.npm
+npm-debug.log
+
+# reports
+test-reports.xml
+
+# Mac
+.DS_Store
+.DS_Store?
+Thumbs.db
